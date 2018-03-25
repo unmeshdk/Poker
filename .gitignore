@@ -1,0 +1,7 @@
+.classpath
+.eclipse-pmd
+.metadata/
+.project
+.settings/
+**/bin/
+**/target
